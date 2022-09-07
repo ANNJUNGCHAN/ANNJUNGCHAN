@@ -23,8 +23,8 @@
 
 <h3 align="left"> 💽 RULE 💽 </h3>
 <p align = "left">
-  <p> 1. 프로젝트를 진행한 기관은 대괄호로 처리 ex.[KT] </p>
+  <p> 1. 프로젝트를 진행한 기관은 . 처리 ex.KT. </p>
   <p> 2. 프로젝트 명에서 띄어쓰기는 _ 를 사용 ex.BAD_WEB </p>
-  <p> 3. 결과 ex.[KT]BAD_WEB </p>
+  <p> 3. 결과 ex.KT.BAD_WEB </p>
  </p>
   
