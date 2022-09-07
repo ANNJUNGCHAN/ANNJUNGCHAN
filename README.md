@@ -12,7 +12,7 @@
 
 <h3 align="center"> 🧸 Me 🧸 </h3>
 <p align="center">
-  <a href="https://blog.naver.com/j227ung"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/woo0_hooo/"/></a>&nbsp
+  <a href="https://blog.naver.com/j227ung"><img src="https://img.shields.io/badge/Naver-03C75A?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/woo0_hooo/"/></a>&nbsp
   <a href="mailto:ajc227ung@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=ajc227ung@gmail.com"/></a>
 </p>
 <br>
