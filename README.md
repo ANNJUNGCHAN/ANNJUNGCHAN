@@ -17,6 +17,6 @@
 <p align="center">
   <a href="https://blog.naver.com/j227ung"><img src="https://img.shields.io/badge/Naver-03C75A?style=flat-square&logo=Naver&logoColor=white&link=https://blog.naver.com/j227ung"/></a>&nbsp
   <a href="mailto:ajc227ung@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=ajc227ung@gmail.com"/></a>
-  <a href="https://www.linkedin.com/in/%EC%A4%91%EC%B0%AC-%EC%95%88-10a224244/"><img src="https://img.shields.io/badge/Linkedin-03C75A?style=flat-square&logo=Naver&logoColor=white&link=https://www.linkedin.com/in/%EC%A4%91%EC%B0%AC-%EC%95%88-10a224244/"/></a>&nbsp
+  <a href="https://www.linkedin.com/in/%EC%A4%91%EC%B0%AC-%EC%95%88-10a224244/"><img src="https://img.shields.io/badge/Linkedin-0A66C2?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/%EC%A4%91%EC%B0%AC-%EC%95%88-10a224244/"/></a>&nbsp
 </p>
 <br>
