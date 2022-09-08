@@ -11,6 +11,18 @@
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=PyTorch&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/Selenium-43B02A?style=flat-square&logo=Selenium&logoColor=white"/></a>&nbsp
   <br>
+  <img src="https://img.shields.io/badge/pandas-150458?style=flat-square&logo=pandas&logoColor=white"/></a>&nbsp
+  <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=NumPy&logoColor=white"/></a>&nbsp
+  <img src="https://img.shields.io/badge/SciPy-8CAAE6?style=flat-square&logo=SciPy&logoColor=white"/></a>&nbsp
+  <img src="https://img.shields.io/badge/scikit-learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white"/></a>&nbsp
+  <img src="https://img.shields.io/badge/JSON-000000?style=flat-square&logo=JSON&logoColor=white"/></a>&nbsp
+  <br>
+    <img src="https://img.shields.io/badge/-statsmodel-green"/></a>&nbsp
+    <img src="https://img.shields.io/badge/%20-request-black"/></a>&nbsp
+    <img src="https://img.shields.io/badge/-math-black"/></a>&nbsp
+    <img src="https://img.shields.io/badge/-itertools-black"/></a>&nbsp
+    <img src="https://img.shields.io/badge/-catboost-yellow"/></a>&nbsp
+    <img src="https://img.shields.io/badge/-byes_opt-blueviolet"/></a>&nbsp
 </p>
 
 <h3 align="center"> 🧸 Me 🧸 </h3>
