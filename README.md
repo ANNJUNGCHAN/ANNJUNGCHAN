@@ -23,6 +23,8 @@
     <img src="https://img.shields.io/badge/-itertools-black"/></a>&nbsp
     <img src="https://img.shields.io/badge/-catboost-yellow"/></a>&nbsp
     <img src="https://img.shields.io/badge/-byes_opt-blueviolet"/></a>&nbsp
+   <br>
+    <img src="https://img.shields.io/badge/Brightics Studio-1428A0?style=flat-square&logo=Samsung&logoColor=white"/></a>&nbsp
 </p>
 
 <h3 align="center"> 🧸 Me 🧸 </h3>
